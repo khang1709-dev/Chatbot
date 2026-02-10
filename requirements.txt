@@ -1,0 +1,10 @@
+langchain
+chromadb
+sentence-transformers
+python-dotenv
+pandas
+numpy
+huggingface-hub
+openpyxl
+groq
+PyPDF2
