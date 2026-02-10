@@ -1,0 +1,8 @@
+# Bỏ qua file chứa key (QUAN TRỌNG NHẤT)
+api.env
+
+# Bỏ qua thư mục Database (nặng, không push)
+chroma_db_bge_m3/
+
+# Cache của Python
+__pycache__/
